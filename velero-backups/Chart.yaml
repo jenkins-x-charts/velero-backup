@@ -1,0 +1,7 @@
+apiVersion: v1
+description: A Helm chart for velero-backup
+name: velero-backup
+version: 0.0.1-SNAPSHOT
+icon: https://rawgit.com/jenkins-x/jenkins-x-platform/08df980/images/kubernetes.png
+sources:
+- https://github.com/jenkins-x-charts/velero-backup.git

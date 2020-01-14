@@ -1,0 +1,2 @@
+enabled: true
+schedule: "@every 10m"
